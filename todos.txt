@@ -1,7 +1,4 @@
-play game
-go to cinema
-play game
-visit parent
-open the window
-climb mountain
-football
+try
+collect seashells
+study pycharm
+study english
